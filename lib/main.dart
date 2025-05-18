@@ -13,7 +13,7 @@ Future<void> main() async {
   Hive.registerAdapter(AdddataAdapter());
   await Hive.openBox<Add_data>('data');
 
-  runApp(const MyApp());
+  // runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -29,14 +29,16 @@ class MyApp extends StatelessWidget {
           if (snapshot.connectionState == ConnectionState.waiting) {
             return const Center(child: CircularProgressIndicator());
           } else {
-            if (snapshot.hasData) {
+            /* if (snapshot.hasData) {
               return const Bottom();
             } else {
               return const LoginScreen();
-            }
+            } */
           }
         },
       ),
     );
   }
 }
+
+// Terkunci :(
