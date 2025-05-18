@@ -1,16 +1,8 @@
 # finanzapp
 
-A new Flutter project.
+Project Skripsi Nuraji Dwi Setiawan '@Luha987'
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Photo
+<table>
+  <td><img src='https://play-lh.googleusercontent.com/pBhZUW4OzYiP-21Ena-FelxsQRGNBoDCNjrBqY3eNUVv_r1u2ORa1iB49bFtGsWfeQ=w1052-h592-rw'></td>
+</table>
