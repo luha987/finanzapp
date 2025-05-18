@@ -1,6 +1,8 @@
-# finanzapp
+# FinanzApp
 
 Project Skripsi Nuraji Dwi Setiawan '@Luha987'
+
+## PlayStore
 
 ## Photo
 <table>
