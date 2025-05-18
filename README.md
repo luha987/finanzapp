@@ -3,6 +3,7 @@
 Project Skripsi Nuraji Dwi Setiawan '@Luha987'
 
 ## PlayStore
+[![Watch the video] (https://github.com/luha987/finanzapp/gambar/playstore.mp4)
 
 ## Photo
 <table>
