@@ -3,7 +3,7 @@
 Project Skripsi Nuraji Dwi Setiawan '@Luha987'
 
 ## PlayStore
-[Tonton Demo Video](./gambar/playstore.mp4)
+[Tonton Demo Video](./gambar/play store.gif)
 [![Lihat Demo Aplikasi](./gambar/play store.gif)](https://play.google.com/store/apps/details?id=com.nuraji.finanzapp)
 
 ## Photo
