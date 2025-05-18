@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "242386649251",
+    "firebase_url": "https://finanzapp-final-default-rtdb.firebaseio.com",
+    "project_id": "finanzapp-final",
+    "storage_bucket": "finanzapp-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242386649251:android:f3f85730ce4e19eadfff16",
+        "android_client_info": {
+          "package_name": "com.nuraji.finanzapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANngXCVEuDSIc9XyDnzg0SH9obOs_QYOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

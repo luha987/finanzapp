@@ -1,0 +1,2 @@
+C:/Users/kakad/OneDrive/Documents/Kuliah/Skripsi/finanzapp/android/app/.cxx/Debug/5a3k2es6/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/kakad/OneDrive/Documents/Kuliah/Skripsi/finanzapp/android/app/.cxx/Debug/5a3k2es6/x86_64/CMakeFiles/rebuild_cache.dir

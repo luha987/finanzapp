@@ -1,0 +1,39 @@
+name: finanzapp
+description: "Project Skripsi By : Nuraji Dwi Setiawan"
+publish_to: 'none'
+version: 1.0.1+2
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  cloud_firestore: ^5.6.1
+  csv: ^6.0.0
+  cupertino_icons: ^1.0.8
+  firebase_auth: ^5.4.0
+  firebase_core: ^3.10.0
+  firebase_database: ^11.3.0
+  firebase_storage: ^12.4.1
+  flutter:
+    sdk: flutter
+  hive_flutter: ^1.1.0
+  image: ^4.0.15
+  image_picker: ^1.1.2
+  intl: ^0.20.1
+  pdf: ^3.11.1
+  share_plus: ^10.1.4
+  syncfusion_flutter_charts: ^28.1.39
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - gambar/
+
+  fonts:
+    - family: "s"
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
