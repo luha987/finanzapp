@@ -26,12 +26,12 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
+ /* static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyANngXCVEuDSIc9XyDnzg0SH9obOs_QYOo',
     appId: '1:242386649251:android:f3f85730ce4e19eadfff16',
     messagingSenderId: '242386649251',
     projectId: 'finanzapp-final',
     databaseURL: 'https://finanzapp-final-default-rtdb.firebaseio.com',
     storageBucket: 'finanzapp-final.appspot.com',
-  );
+  ); */
 }
