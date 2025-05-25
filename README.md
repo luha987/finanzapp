@@ -20,4 +20,5 @@ Project Skripsi Nuraji Dwi Setiawan '@Luha987'
 </table>
 
 ## Certifikat HKI (Hak Kekayaan Intelektual)
-<img src="https://terbarusaja29.wordpress.com/wp-content/uploads/2025/05/sertifikat_2025-05-07-nuraji_page-0001.jpg" width="100">
+<img src="https://terbarusaja29.wordpress.com/wp-content/uploads/2025/05/sertifikat_2025-05-07-nuraji_page-0001.jpg" width="1000">
+<img src="https://terbarusaja29.wordpress.com/wp-content/uploads/2025/05/sertifikat_2025-05-07-nuraji_page-0002.jpg" width="1000">
